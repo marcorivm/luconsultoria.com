@@ -5,7 +5,18 @@
  *
  * Made By MaterializeCSS.com
  */
-
+.brown-lu {
+  background-color: #6d220f !important;
+}
+.brown-lu-text {
+  color: #6d220f !important;
+}
+.purple-lu {
+  background-color: #6c2478 !important;
+}
+.purple-lu-text {
+  color: #6c2478 !important;
+}
 nav ul a,
 nav .brand-logo {
   color: #444;
